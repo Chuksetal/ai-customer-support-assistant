@@ -36,3 +36,29 @@ Skills Demonstrated
 Project Status
 
 Beginner portfolio project. More features will be added as the project develops.
+
+Practical Testing
+
+I created and tested this AI customer support assistant using ChatGPT.
+
+Test 1: Delivery Enquiry
+
+Customer: How long does delivery take?
+
+Expected response: Delivery takes 2–5 business days.
+
+Test 2: Return Policy
+
+Customer: Can I return a product after receiving it?
+
+Expected response: Customers can request a return within 7 days of delivery.
+
+Test 3: Business Opening Hours
+
+Customer: What are your business opening hours?
+
+Expected response: Monday to Friday, 9 AM to 5 PM.
+
+Project Outcome
+
+The assistant successfully demonstrated how AI can answer common customer enquiries using supplied business information.
